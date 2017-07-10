@@ -1,7 +1,7 @@
 {
     "users": [{
         "sbalagopal": {
-            "name": "Sabarish M Balagopal",
+            "full_name": "Sabarish M Balagopal",
             "email": "sabarish.balagopal@gmail.com",
             "role": "member",
             "teams": ["Ops"],
