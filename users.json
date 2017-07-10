@@ -1,6 +1,8 @@
 {
     "users": [{
         "sbalagopal": {
+            "name": "Sabarish M Balagopal",
+            "email": "sabarish.balagopal@gmail.com",
             "role": "member",
             "teams": ["Ops"],
             "orgs": ["test-acc-sab"],
