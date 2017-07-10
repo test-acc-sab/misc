@@ -1,0 +1,10 @@
+{
+    "users": [{
+        "sbalagopal": {
+            "role": "member",
+            "teams": ["Ops"],
+            "orgs": ["test-acc-sab"],
+            "repos": ["misc"]
+        }
+    }]
+}
