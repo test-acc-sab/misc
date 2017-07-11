@@ -3,7 +3,7 @@ users:
         full_name: "Sabarish M Balagopal"
         email: "sabarish.balagopal@gmail.com"
         role: "member"
-        teams: ["Ops"]
+        teams: ["Ops","junk"]
         orgs: ["test-acc-sab"]
         repos: ["misc"]
     suga-rray:
