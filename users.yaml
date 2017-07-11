@@ -10,6 +10,6 @@ users:
         full_name: "Dummy github user"
         email: "suga_rray@yahoo.com"
         role: "member"
-        teams: []
-        orgs: []
-        repos: []
+        teams:
+        orgs:
+        repos:
