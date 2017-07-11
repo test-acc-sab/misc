@@ -1,0 +1,15 @@
+users:
+    sbalagopal:
+        full_name: "Sabarish M Balagopal"
+        email: "sabarish.balagopal@gmail.com"
+        role: "member"
+        teams: ["Ops"]
+        orgs: ["test-acc-sab"]
+        repos: ["misc"]
+    suga-rray:
+        full_name: "Dummy github user"
+        email: "suga_rray@yahoo.com"
+        role: "member"
+        teams: []
+        orgs: []
+        repos: []
