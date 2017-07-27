@@ -1,19 +1,18 @@
-users:
-    sbalagopal:
-        full_name: "Sabarish M Balagopal"
-        user_email: "sabarish.balagopal@gmail.com"
-        corporate_id: "sbalagopal"
-        corporate_email: "sabarish.balagopal@rovicorp.com"
-        role: "member"
-        teams: ["Ops"]
-        orgs: ["test-acc-sab"]
-        repos: ["misc"]
-    suga-rray:
-        full_name: "Dummy github user"
-        user_email: "suga_rray@yahoo.com"
-        corporate_id: 
-        corporate_email: 
-        role:
-        teams:
-        orgs:
-        repos:
+sbalagopal:
+    full_name: "Sabarish M Balagopal"
+    user_email: "sabarish.balagopal@gmail.com"
+    corporate_id: "sbalagopal"
+    corporate_email: "sabarish.balagopal@rovicorp.com"
+    role: "member"
+    teams: ["Ops"]
+    orgs: ["test-acc-sab"]
+    repos: ["misc"]
+suga-rray:
+    full_name: "Dummy github user"
+    user_email: "suga_rray@yahoo.com"
+    corporate_id: 
+    corporate_email: 
+    role:
+    teams:
+    orgs:
+    repos:
